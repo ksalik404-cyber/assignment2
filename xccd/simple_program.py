@@ -13,9 +13,9 @@ print('celecious:',c)
 
 #simple intrest calulator
 #pnr/100
-p=input("p:")
-n=input("n:")
-r=input("r:")
+p=input("principal amount:")
+n=input("number of time:")
+r=input("rate of intrest:")
 p=int(p)
 n=int(n)
 r=int(r)
