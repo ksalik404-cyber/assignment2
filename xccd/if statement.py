@@ -17,6 +17,7 @@ marks=int(input("enter marks:"))
     #statement
 #else:
      #statement
+    print('you can vote')
 if(marks>40):
     print('passed')
 else:
@@ -28,7 +29,6 @@ print("thank you")
 '''
 age=int(input("enter age:"))
 if age>=18:
-    print('you can vote')
 else:
     print('you cannot vote')
 print("thank you")
